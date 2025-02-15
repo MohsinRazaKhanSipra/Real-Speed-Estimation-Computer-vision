@@ -18,18 +18,14 @@ pip install ultralytics supervision opencv-python numpy
 
 ## 📺 Usage
 1. **Upload a Video**: Place your video file in the project folder.
-2. **Run the Script**:
-   ```bash
-   python speed_estimation.py
-   ```
-3. **View Results**: The script will display vehicle detection, tracking, and estimated speeds.
+2. **Run**: The Jupyter Notebook file and follow the steps
+3. **View Results**: You export the video from the Jupyter Notebook
 
 ## 🏃️‍♂️ Code Structure
 ```
-📂 Vehicle-Speed-Estimation
-├── 📋 speed_estimation.py   # Main script for speed calculation
-├── 📂 videos                # Folder for input videos
-├── 📋 requirements.txt      # Dependencies list
+📂 Repo
+├── 📋 Updated_how_to_estimate_vehicle_speed_with_computer_vision.ipynb   # Main script file for speed calculation
+├── 📋 test_video.mp4               # test video
 ├── 📋 README.md             # Project documentation
 ```
 
@@ -39,7 +35,8 @@ Speed (km/h) = (Distance traveled in pixels / Time in seconds) * 3.6
 ```
 
 ## 🔥 Demo
-[![Vehicle Speed Estimation](https://your-image-or-demo-link.com)](https://www.youtube.com/watch?v=2QkXjGXGNFE)
+Link: (https://www.youtube.com/watch?v=2QkXjGXGNFE)
+[![Vehicle Speed Estimation](https://blog.roboflow.com/content/images/2024/04/image-452.webp)](https://www.youtube.com/watch?v=2QkXjGXGNFE)
 
 ## 📖 Medium Article
 For a detailed step-by-step guide, check out my article:  
