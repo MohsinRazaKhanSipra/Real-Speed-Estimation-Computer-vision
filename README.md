@@ -1,7 +1,7 @@
 # 🚗 Vehicle Speed Estimation Using AI & Computer Vision
 
 ## 📌 Overview
-This project demonstrates how to estimate vehicle speed from video footage using **YOLOv8**, **ByteTrack**, and **Supervision**. The system detects vehicles, tracks them across frames, and computes their speed using **perspective transformation** for real-world measurements.
+This project demonstrates how to make an estimation of vehicle speed from video footage using **YOLOv8**, **ByteTrack**, and **Supervision**. The system detects vehicles, tracks them across frames, and computes their speed using **perspective transformation** for real-world measurements.
 
 ## 🔧 Features
 ✅ **Vehicle Detection** – YOLOv8 for real-time object detection  
